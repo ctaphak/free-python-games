@@ -16,7 +16,7 @@ from freegames import line
 
 def draw():
     "Draw maze by me."
-    color('black')
+    color('blue')
     width(5)
 
     for x in range(-200, 200, 40):
