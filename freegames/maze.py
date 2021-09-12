@@ -15,7 +15,7 @@ from freegames import line
 
 
 def draw():
-    "Draw maze."
+    "Draw maze by me."
     color('black')
     width(5)
 
